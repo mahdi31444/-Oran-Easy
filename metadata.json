@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Oran Easy",
+  "description": "نظام تتبع حافلات النقل الحضري لوهران في الوقت الفعلي",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
